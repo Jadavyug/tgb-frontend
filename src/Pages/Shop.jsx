@@ -2,7 +2,7 @@ import React from 'react'
 import Hero from '../Components/Hero/Hero'
 import Offers from '../Components/Offers/Offers'
 import NewCollections from "../Components/NewCollections/NewCollections"
-import Newsletter from '../Components/NewsLetter/Newsletter'
+// import Newsletter from '../Components/NewsLetter/Newsletter'
 // import Popular from '../Components/popular/Popular'
 
 
@@ -13,7 +13,7 @@ const Shop = () => {
      {/* <Popular/> */}
       <Offers/>
       <NewCollections/>
-      <Newsletter/>
+     
       
     </div>
   )
